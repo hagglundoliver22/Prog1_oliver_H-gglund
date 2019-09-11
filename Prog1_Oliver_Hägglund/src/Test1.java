@@ -1,6 +1,6 @@
 
 public class Test1 {
-	
+	//hhh
 	public static void main(String [] arg){
 		
 		int tal1; // deklarering
